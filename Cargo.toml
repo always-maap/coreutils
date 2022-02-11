@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "crates/true",
-    "crates/false"
+    "crates/false",
+    "crates/echo"
 ]
