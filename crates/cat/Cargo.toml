@@ -1,0 +1,12 @@
+[package]
+name = "cat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "3.0.14"
+
+[dev-dependencies]
+predicates = "2.1.1"
+assert_cmd = "2.0.4"
+rand = "0.8.5"
