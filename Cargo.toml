@@ -2,5 +2,6 @@
 members = [
     "crates/true",
     "crates/false",
-    "crates/echo"
+    "crates/echo",
+    "crates/cat"
 ]
